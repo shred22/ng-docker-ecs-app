@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ng-docker-ecs-app"
+  "defaultProject": "ng-docker-ecs-app",
+  "cli": {
+    "analytics": false
+  }
 }
